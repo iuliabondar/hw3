@@ -7,3 +7,8 @@
 Пройден 20 людьми.
 
 [Таблица](https://docs.google.com/spreadsheets/d/1rgNBxUCErsBMCdkjo1b1m-ojyWOETN_pzpoeAKrx_aU/edit?usp=sharing)
+
+# Результаты
+
+Большинство опрошенных не имеют любимого русского режиссера.
+Также, большинство слушает русскую музыку.
